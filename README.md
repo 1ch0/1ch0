@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 -->
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
-[![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#)
+<!-- [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#) -->
 [![](https://img.shields.io/badge/bilibili-fb7299?style=flat-square&logo=Bilibili&logoColor=white)](#)
-[![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
-[![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
+<!-- [![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
+[![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)](#) -->
 <!-- [![](https://img.shields.io/badge/golang-000000?style=flat-square&logo=jetbrains)](#) -->
