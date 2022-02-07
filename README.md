@@ -1,5 +1,9 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=1ch0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ### Hi there 👋 -->
 - :orange_book: Focusing on Go & K8S
@@ -31,8 +35,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
 [![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
 [![](https://img.shields.io/badge/golang-000000?style=flat-square&logo=jetbrains)](#) -->
-
-
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=1ch0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<br/>
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
