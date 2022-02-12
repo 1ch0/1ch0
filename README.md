@@ -1,5 +1,9 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
+<img align="right" width="150px" src="https://raw.githubusercontent.com/tal-tech/zero-doc/main/doc/images/go-zero.png">
+
+
+
 <img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=1ch0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <!-- <br/>
 <img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
@@ -8,6 +12,13 @@
 <!-- ### Hi there 👋 -->
 - :orange_book: Focusing on Go & K8S
 - 🌱 I’m currently learning k8s 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ch0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1ch0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ch0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1ch0&theme=github)
 
 
 <!--
