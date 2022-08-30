@@ -10,8 +10,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ### Hi there 👋 -->
-- :orange_book: Focusing on Go & K8S
-- 🌱 I’m currently learning k8s 
+- :orange_book: Focusing on go & k8s
+- 🌱 I’m currently learning rust 
 
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
