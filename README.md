@@ -11,7 +11,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!-- ### Hi there 👋 -->
 - :orange_book: Focusing on go & k8s
-- 🌱 I’m currently learning rust 
+- 🌱 I’m currently learning rust & typescript
 
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
