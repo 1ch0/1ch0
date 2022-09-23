@@ -1,3 +1,12 @@
+<p align="center"><a href="https://1ch0.github.io"><img width="80%" alt="Hello, I'm Cheng Xu. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- ### Hi there 👋 -->
+- I'm a self-taught passionate backend developer from China.
+- :orange_book: Focusing on go & k8s
+- 🌱 I’m currently learning rust & typescript
+- 
 
 [![1ch0's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&count_private=true&theme=cobalt)](https://github.com/1ch0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,10 +18,6 @@
 <!-- <br/>
 <img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!-- ### Hi there 👋 -->
-- :orange_book: Focusing on go & k8s
-- 🌱 I’m currently learning rust & typescript
 
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
