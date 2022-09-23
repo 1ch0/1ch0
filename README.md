@@ -6,7 +6,7 @@
 - I'm a self-taught passionate backend developer from China.
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
-- 
+
 
 [![1ch0's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&count_private=true&theme=cobalt)](https://github.com/1ch0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
