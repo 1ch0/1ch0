@@ -4,7 +4,7 @@
 - I'm a self-taught passionate backend developer from China.
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
-<br/>
+<!-- <br/>
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 <!-- [![](https://img.shields.io/badge/bilibili-fb7299?style=flat-square&logo=Bilibili&logoColor=white)](#)
 [![](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript&logoColor=white)](#)
