@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 <!-- ### Hi there 👋 -->
-- I'm a self-taught passionate backend developer from China.
+- 🔭 I'm a self-taught passionate backend developer from China.
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
 
@@ -24,8 +24,8 @@
 <img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ch0&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ch0&theme=github)
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1ch0&theme=github)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1ch0&theme=github)-->
 
