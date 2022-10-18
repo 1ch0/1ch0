@@ -6,13 +6,11 @@
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
-<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1ch0&theme=github)
 
-
+<!--
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1ch0&theme=github)
@@ -52,6 +50,8 @@ Here are some ideas to get you started:
 - :hammer: Technology blogger
 - :ram: Founder the PHP-Z
 - :meat_on_bone: Meat lover
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 
 -->
 
