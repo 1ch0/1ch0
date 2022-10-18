@@ -10,11 +10,13 @@
 
  <br>
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
+ <br>
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1ch0&theme=github)
 
 <!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1ch0&theme=github)
 
