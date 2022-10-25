@@ -6,9 +6,11 @@
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
 
-<img src="https://changkun.de/urlstat?mode=github&repo=1ch0/1ch0" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right" style="margin: 5px; margin-bottom: 20px;"/> 
 
 <!--
+<img src="https://changkun.de/urlstat?mode=github&repo=1ch0/1ch0" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ch0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1ch0&theme=github)
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 - :ram: Founder the PHP-Z
 - :meat_on_bone: Meat lover
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+
 
 -->
 
