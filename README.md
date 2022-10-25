@@ -6,7 +6,7 @@
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right" style="margin: 5px; margin-bottom: 20px;"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right" style="margin: 5px; margin-bottom: 20px;"/> 
 
 <!--
 <img src="https://changkun.de/urlstat?mode=github&repo=1ch0/1ch0" align="right" style="margin: 5px; margin-bottom: 20px;" />
