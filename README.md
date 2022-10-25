@@ -1,12 +1,14 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right" style="margin: 5px; margin-top: 5px; float:right;"/> 
+
+
 <!-- ### Hi there 👋 -->
 - 🔭 I'm a self-taught passionate backend developer from China
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust & typescript
-
-<img src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right" style="margin: 5px; margin-top: 5px;"/> 
 
 <!--
 <img src="https://changkun.de/urlstat?mode=github&repo=1ch0/1ch0" align="right" style="margin: 5px; margin-bottom: 20px;" />
