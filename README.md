@@ -5,8 +5,6 @@
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=1ch0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align="right" style="margin: 5px; margin-top: 5px; float:right;"/> 
-
 
 <!-- ### Hi there 👋 -->
 - 🔭 I'm a self-taught passionate backend developer from China
