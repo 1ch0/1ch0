@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 
 <!-- ### Hi there 👋 -->
-- 🔭 I'm a self-taught passionate backend developer from China
+- 🔭 I'm a self-taught passionate backend developer
 - :orange_book: Focusing on go & k8s
 - 🌱 I’m currently learning rust 
 
